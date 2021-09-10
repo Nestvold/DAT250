@@ -56,9 +56,9 @@ The test created the following databases
 I had a hard time running the program as a Maven project, however after some time in IntelliJ i managed to do so. 
 
 ## 2: Link to the code 
-[Link to Experiment 1: Application using JPA]()
+[Link to Experiment 1: Application using JPA](https://github.com/Nestvold/expass2/tree/master/eclipselink/jpa-basic/src/main/java/no/hvl/dat250/jpa/basicexample)
 
-[Link to Experiment 2: Banking/Credit Card example JPA]()
+[Link to Experiment 2: Banking/Credit Card example JPA](https://github.com/Nestvold/expass2/tree/master/eclipselink/jpa-basic/src/main/java/no/hvl/dat250/jpa/creditCard)
 
 ## 3: Inspection of Database
 When inspecting the database i used IntelliJ's JPA Structure tool to see the different databases and their connections as shown above.
