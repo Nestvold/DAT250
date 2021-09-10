@@ -1,6 +1,6 @@
 # Labratory report : Software Technology Experiment Assignment 2
  - [x] Experiment 1: Application using JPA
- - [x] Experiment 2: Banking/Credit Card example JPA
+ - [ ] Experiment 2: Banking/Credit Card example JPA
 
 
 ## Experiment 1: Application using JPA
