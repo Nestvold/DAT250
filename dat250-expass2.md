@@ -48,3 +48,20 @@ The test created the following databases
 
 
 ## Experiment 2: Banking/Credit Card example JPA
+
+
+# Report
+
+## 1: Technical Problems
+I had a hard time running the program as a Maven project, however after some time in IntelliJ i managed to do so. 
+
+## 2: Link to the code 
+[Link to Experiment 1: Application using JPA]()
+
+[Link to Experiment 2: Banking/Credit Card example JPA]()
+
+## 3: Inspection of Database
+When inspecting the database i used IntelliJ's JPA Structure tool to see the different databases and their connections as shown above.
+
+## 4: Pending issues 
+
