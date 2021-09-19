@@ -13,27 +13,27 @@ I created a PowerShell script called [`checkSignaturesMongoDB.ps1`](extra\checkS
 
 
 ### Tutorial: Insert Documents
-<img src="extra\insert.JPG" width="400">
+<img src="extra\insert.JPG">
 
 
 ### Tutorial: Query Documents
-<img src="extra\query.JPG" width="400">
+<img src="extra\query.JPG">
 
 
 ### Tutorial: Update Documents
-<img src="extra\update.JPG" width="400">
+<img src="extra\update.JPG">
 
 
 ### Tutorial: Remove Documents
-<img src="extra\delete.JPG" width="400">
+<img src="extra\delete.JPG">
 
 ### Tutorial: Bulk Write
-<img src="extra\bulkWrite.JPG" width="400">
+<img src="extra\bulkWrite.JPG">
 
 ## Experiment 2: Aggregation 
 
 ### Map-reduce
-<img src="extra\map_reduce.JPG" width="400">
+<img src="extra\map_reduce.JPG" >
 
 ## Own function
 I though it would be useful to see the daily income based on sales (without costs that is).
