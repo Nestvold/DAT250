@@ -4,15 +4,8 @@
 During this tutorial I did not encouter any problems. Setting path etc for `mongosh` was easy considering we had to do the same for `Maven`.
 
 ### Correct installation
-I created a PowerShell script called `checkSignatures.ps1` and ran it, however for some reason it would not access the `mongodb-windows-x86_64-5.0.2-signed.msi.sha256` file, so i were not able to run the script successfully. However i was able to get retrive the `SHA256` hash computed from the MongoDB binary i downloaded and compared it to the `SHA256` hash i downloaded directly from MongoDB and they were a match.
-
-```
-$sigHash = (Get-Content $Env:HomePath\Downloads\mongodb-windows-x86_64-5.0.2-signed.msi.sha256 | Out-String).SubString(0,64).ToUpper(); `
-$fileHash = (Get-FileHash $Env:HomePath\Downloads\mongodb-windows-x86_64-5.0.2-signed.msi).Hash.Trim(); `
-Write-Output $sigHash; `
-Write-Output $fileHash; `
-$sigHash -eq $fileHash
-```
+I created a PowerShell script called `checkSignatures.ps1` and ran it
+I was able to get retrive the `SHA256` hash computed from the MongoDB binary i downloaded and compared it to the `SHA256` hash i downloaded directly from MongoDB and they were a match.
 
 <img src="extra\signatureCheck.JPG">
 
