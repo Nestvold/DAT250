@@ -37,3 +37,5 @@ I created a PowerShell script called [`checkSignaturesMongoDB.ps1`](extra\checkS
 
 ## Own function
 I though it would be useful to see the daily income based on sales (without costs that is).
+
+<img src="extra\ownFunction.JPG" >
