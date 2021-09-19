@@ -1,4 +1,4 @@
-# DAT250: Software Technology Experiment Assignment 3
+# Labratory report : Software Technology Experiment Assignment 3
 
 ## Experiment 1: MongoDB CRUD operations
 
