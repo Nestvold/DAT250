@@ -14,7 +14,7 @@ Write-Output $fileHash; `
 $sigHash -eq $fileHash
 ```
 
-![SignatureCheck](extra\signatureCheck.JPG)
+<img src="extra\signatureCheck.JPG" width="400">
 
 
 ## Tutorial: Insert Documents
