@@ -1,6 +1,17 @@
 ## Labratory report : Software Technology Experiment Assignment 4
  
  
+## Experiment 1: Spark/Java Framework project and Postman
+### Postman GET
+<img src="extra\postman_get.JPG" width="600">
+
+### Postman PUT
+<img src="extra\postman_put.JPG" width="600">
+
+
+## Experiment 2: REST API for TODO-items
+
+
  As hand in, you must add a markdown file called dat250-expass4.md to the same repository that you created in the earlier software technology assignments.
 
 In particular, you should write about:
