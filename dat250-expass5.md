@@ -25,7 +25,7 @@ The goal of this assignment is to make initial experiments with the Spring frame
 ## Technical problems that you encountered during the completion of the tutorial
 
 Links:
-[Experiment 1: Getting started]()
+[Experiment 1: Getting started](https://github.com/Nestvold/Experiment-1-Getting-started)
 
 [Experiment 2: Spring Boot]()
 
