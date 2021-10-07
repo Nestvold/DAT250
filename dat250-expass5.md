@@ -33,4 +33,6 @@ Links:
 
 [Experiment 4: Data Access]()
 
-This tutorial was some of the more useful stuff I have ever encountered. I have one pending problem and that is that my git has seemed to stop cooperating so i have not been able to publish the code but im working on it!
+This tutorial was some of the more useful stuff I have ever encountered. I have one pending problem and that is that my git has seemed to stop cooperating so i have not been able to publish the code. Ill add a picture so you can see.
+
+<img src="extra\error.JPG" width="600">
