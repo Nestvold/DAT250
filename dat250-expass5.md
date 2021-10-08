@@ -27,11 +27,11 @@ The goal of this assignment is to make initial experiments with the Spring frame
 Links:
 [Experiment 1: Getting started](https://github.com/Nestvold/Experiment-1-Getting-started)
 
-[Experiment 2: Spring Boot]()
+[Experiment 2: Spring Boot](https://github.com/Nestvold/Experiment-2-Spring-Boot)
 
-[Experiment 3: REST service]()
+[Experiment 3: REST service](https://github.com/Nestvold/Experiment-3-REST-service)
 
-[Experiment 4: Data Access]()
+[Experiment 4: Data Access](https://github.com/Nestvold/Experiment-4-Data-Access)
 
 This tutorial was some of the more useful stuff I have ever encountered. I have one pending problem and that is that my git has seemed to stop cooperating so I have not been able to publish the code. Ill add a picture so you can see. I only managed to publish the code from experiment 1 so if you want to see the remaining code I have it locally
 
